@@ -24,7 +24,13 @@ Will be adding more photograhy types like landscapes and others further
 ![Alt text](https://github.com/Ravi-Teja-konda/My_Experiments_with_Diffusion_models/blob/main/DALL-E-Portraits/collage.png?raw=true "Collage DALL-E portrait")
 
 
-Will adding the prompts of the above images in coming days.
+Will be adding the prompts of the above images in coming days.
+
+### References and Links:
+https://arc.tencent.com/en/ai-demos/faceRestoration
+http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
+https://openart.ai/
+https://www.artstyle.ai/
 
 
 
