@@ -18,6 +18,8 @@ In order to get better results adding adjectives and keeping it simple helps us.
 
 Here are images generated with DALL-E-2 and tweaked with ARC face restoration AI.
 
+![Alt text](https://github.com/Ravi-Teja-konda/My_Experiments_with_Diffusion_models/blob/main/DALL-E-Portraits/collage.png?raw=true "Collage DALL-E portrait")
+
 
 
 
