@@ -16,10 +16,13 @@ https://labs.openai.com/policies/content-policy
 ### Writing good prompt
 In order to get better results adding adjectives and keeping it simple helps us.But if we want to generate a specific image adding detailed description to the prompt will give better results. adding the terms like hyper-realstic, high resolution, and lighting , photography style, lens type will give good output.
 
-Here are images generated with DALL-E-2 and tweaked with ARC face restoration AI.
+Here are portrait images generated with DALL-E-2 and tweaked with ARC face restoration AI.
+Will be adding more photograhy types like landscapes and others further
 
 ![Alt text](https://github.com/Ravi-Teja-konda/My_Experiments_with_Diffusion_models/blob/main/DALL-E-Portraits/collage.png?raw=true "Collage DALL-E portrait")
 
+
+Will adding the prompts of the above images in coming days.
 
 
 
