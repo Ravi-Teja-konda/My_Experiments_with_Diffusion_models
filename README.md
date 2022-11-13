@@ -26,6 +26,18 @@ Will be adding more photograhy types like landscapes and others further
 
 Will be adding the prompts of the above images in coming days.
 
+## Stable Diffusion
+
+Stable diffusion is one of the fastest growing open-source model from stability.AI.It is trained on 2.3 English label subset of the CLIP-filtered image-text pairs open dataset LAION 5b.
+
+Along with the prompt stable diffuison also supports to configure the nosie levels, different samplers, number of iterations, guidance level and also a prompt to not generate in our image generation.
+
+Stable diffusion produces 512 * 512 resolution images.
+
+
+More info image generation results will be added here.
+
+
 ### References and Links:
 https://arc.tencent.com/en/ai-demos/faceRestoration
 
