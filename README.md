@@ -1,5 +1,5 @@
 
-# Experiments_with_image_generation_diffusion_models
+# Experiments with image generation diffusion models
 This is repository is a just an simple experiment with multiple image generation diffusion models.
 
 Currently we have experimented with DALL-E-2 furthermore, we will be adding the results and analysis of models 
